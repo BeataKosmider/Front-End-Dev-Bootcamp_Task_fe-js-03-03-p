@@ -1,4 +1,4 @@
-function iterateAndSum() {
+const iterateAndSum = (arr) => {
   // Zaimplementuj zadanie zgodnie z wytycznymi
 };
 
